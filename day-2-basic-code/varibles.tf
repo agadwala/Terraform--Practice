@@ -5,7 +5,7 @@ variable "ami_id" {
 }
 
 variable "instance_type" {
-    description = "we will five the of instance type"
+    description = "we will give the of instance type"
     type = string
     default = ""
 }
